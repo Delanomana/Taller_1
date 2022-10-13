@@ -1,5 +1,4 @@
 # Taller_1
 probando git 
 
-equisde pros 
-BV
+probando escritura en readme.md
